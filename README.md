@@ -15,11 +15,11 @@ sasik-apt plugin
 
 shortcut for Debian apt
 
-* sagi - sudo apt-get install"
-* sagu - sudo apt-get update"
-* sagr - sudo apt-get remove"
-* sagug - sudo apt-get upgrade"
-* sacs - sudo apt-cache search"
+* sagi - sudo apt-get install
+* sagu - sudo apt-get update
+* sagr - sudo apt-get remove
+* sagug - sudo apt-get upgrade
+* sacs - sudo apt-cache search
 
 
 
