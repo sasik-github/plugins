@@ -1,6 +1,6 @@
 
-alias sagi="sudo apt-get install"
-alias sagu="sudo apt-get update"
-alias sagr="sudo apt-get remove"
-alias sagug="sudo apt-get upgrade"
-alias sacs="sudo apt-cache search"
+alias sagi="sudo apt install"
+alias sagu="sudo apt update"
+alias sagr="sudo apt remove"
+alias sagug="sudo apt upgrade"
+alias sacs="sudo apt search"
